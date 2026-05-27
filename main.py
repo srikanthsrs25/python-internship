@@ -1,10 +1,9 @@
-# Simple Calculator
 
 # Take input from user
 num1 = float(input("Enter first number: "))
 num2 = float(input("Enter second number: "))
 
-# Choose operation
+
 print("Choose operation:")
 print("1. Add")
 print("2. Subtract")
