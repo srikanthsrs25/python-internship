@@ -1,0 +1,13 @@
+name = input("Enter your name:")
+age = int(input("Enter your age:"))
+height = float(input("Enter your height:"))
+is_jobHolder = bool(input("Are you a job holder? (True/False):"))
+print(f"Hello {name} you are {age} years old")
+print(type(name))
+print(type(age))
+print(type(height))
+print(type(is_jobHolder))
+print("\nstudent Details")
+print("Name:", name, "\nAge:", age , "\nHeight:", height, "\nIs Job Holder:", is_jobHolder )
+age = age + 1
+print(f"Next year you will be {age} years old")

@@ -1,0 +1,22 @@
+s = " Hi good morning GUYS!"
+
+print(
+    f"{s.lower()}\n"
+    f"{s.upper()}\n"
+    f"{s.title()}\n"
+    f"{s.capitalize()}\n"
+    f"{s.swapcase()}\n"
+    f"{s.strip()}\n"
+    f"{s.lstrip()}\n"
+    f"{s.rstrip()}\n"
+    f"{s.count('o')}\n"
+    f"{s.find('o')}\n"
+    f"{s.rfind('o')}\n"
+    f"{s.index('o')}\n"
+    f"{s.rindex('o')}\n"
+    f"{s.startswith('H')}\n"
+    f"{s.endswith('!')}\n"
+    f"{s.isalpha()}\n"
+    f"{s.isdigit()}\n"
+    f"{s.isalnum()}"
+)
