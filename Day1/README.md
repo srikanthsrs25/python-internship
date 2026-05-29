@@ -8,7 +8,7 @@ Day1d.py
 README.PY
 
 Topics Covered
-variables 
+variables gi
 DataTypes
 F-strings
 string methods
