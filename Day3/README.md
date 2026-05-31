@@ -1,13 +1,13 @@
 # Files 
 
-Day3a.py
-Day3b.py
-Day3c.py
-Day3d.py
-Day3e.py
-Day3f.py 
-README.md
-PEOMPT.md 
+Day3a.py - #List and its operations
+Day3b.py - #Tuple and its properties
+Day3c.py- # set and its operations
+Day3d.py- # Dictionary and its operations
+Day3e.py- # List and Dict comprehension
+Day3f.py -# counter Program
+README.md -# Project overview and learning summary
+PROMPT.py -#  Documentation of AI-assisted outputs
 
 # topics Covered 
 Lists
