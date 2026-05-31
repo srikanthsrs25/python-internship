@@ -15,5 +15,3 @@ string methods
 input/output 
 Arthematic operations 
 
-deliverable: created begginer python programs and Documented learning Notes
-

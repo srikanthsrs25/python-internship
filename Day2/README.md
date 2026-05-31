@@ -99,5 +99,5 @@ javascript
 const fruits = ["apple", "banana", "cherry"];
 console.log(fruits[1]); // "banana"
 
-# Deliverable: created python practice programs , compare LLM's responses and Documented learning notes . 
+ 
 
