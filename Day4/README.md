@@ -32,7 +32,7 @@ README.md - Project overview and learning summary
  Average calculation
  File output generation
 
-## GenAI Concepts Practiced
+# GenAI Concepts Practiced
 
  Safe debugging with AI tools
  Sharing only relevant code snippets
