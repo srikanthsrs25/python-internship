@@ -1,0 +1,28 @@
+#List and its operations
+fruits = ["apple", "banana", "mango", "kiwi", "grape"]
+print(type(fruits))
+print(fruits[0])     
+print(fruits[-1])     
+print(fruits[1:3])
+print(fruits[:2])
+print(fruits[::-1])   
+fruits.append("orange")
+print(fruits)
+fruits.insert(1, "lime")
+print(fruits)
+fruits.remove("banana")
+print(fruits)
+fruits.pop()
+print(fruits)
+fruits.sort()
+print(fruits)
+fruits.sort(reverse=True)
+print(fruits)
+print(len(fruits))
+print(fruits.count("apple"))
+print(fruits.index("mango"))
+fruits[0] = "pear"
+print(fruits)
+fruits.clear()
+print(fruits)
+
