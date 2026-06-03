@@ -25,7 +25,12 @@ print(response.text)
 print("\nTOKEN USAGE:\n")
 
 try:
-    print(response.usage_metadata)
+    usage = response.usage_metadata
+
+    print("Prompt Tokens:", usage.prompt_token_count)
+    print("Response Tokens:", usage.candidates_token_count)
+    print("Total Tokens:", usage.total_token_count)
+
 except:
     print("Token usage not available")
 
